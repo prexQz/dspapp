@@ -1,0 +1,18 @@
+{
+    "/dsgcCore": {
+        "target": "http://168.168.7.155:8021",
+        "secure": false
+    },
+    "/dsgc": {
+        "target": "http://localhost:8888",
+        "secure": false
+    },
+    "/DspService": {
+        "target": "http://172.18.66.96:9999/DspService",
+        "secure": false
+    },
+    "/createGamcPkgAndDeploy": {
+        "target": "http://172.18.66.96:8888/createGamcPkgAndDeploy",
+        "secure": false
+    }
+}
